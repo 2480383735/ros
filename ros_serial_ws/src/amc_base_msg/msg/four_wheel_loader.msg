@@ -1,0 +1,4 @@
+int32  right_back_wheel_loader
+int32  right_front_wheel_loader
+int32  left_front_wheel_loader
+int32  left_back_wheel_loader
